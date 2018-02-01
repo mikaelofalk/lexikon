@@ -1,0 +1,414 @@
+MIKAELS MAGNIFIKA LEXIKON (FML)!!
+
+***CELLBIOLOGI***
+
+Interaktiv biologi:Beskriver den flercelliga organismens struktur och funktion, dvs resultatet av samverkan mellan olika celler och organ.
+Nukleinsyror:Det finns två typer av X hos levande organismer: ribonukleinsyra (RNA) samt deoxiribonukleinsyra (DNA). Förutom i vissa enstaka virus, så består RNA av en enkelsträngad polynukleotidkedja, DNA består av en dubbelsträngad kedja av polynukleotider, ett duplex sammansatt i en helixformad struktur.
+Fenotyp:Uttrycket för genotypen, dvs den ”färdiga” individen. Vad den får för utseende och egenskaper.
+10-100 mikrometer:Diameter för djurceller.
+Prokaryote:Is a unicellular organism that lacks a membrane-bound nucleus, mitochondria, or any other membrane-bound organelle.
+Protozoer:X är encelliga eukaryota organismer, ett exempel är malaria som är ett urdjur.
+Puriner:Adenin och Guanin. Innehåller 2 ringstrukturer.
+Pyrimidiner:Cytosin och Tymin. Innehåller 1 ringstruktur.
+Ectoderm:X is one of the three primary germ layers in the very early embryo. The other two layers are the mesoderm (middle layer) and endoderm (most proximal layer)
+Endoderm:X is one of the three primary germ layers in the very early embryo. The other two layers are the ectoderm (outside layer) and mesoderm (middle layer)
+Mesoderm:The X is one of the three primary germ layers in the very early embryo. The other two layers are the ectoderm (outside layer) and endoderm (inside layer)
+Differentiering:X är den process som gör att celler blir olika, trots att de har samma genetiska utgångsmaterial och tillhör samma organism.
+Fysiologi:X är studiet av mekaniska, fysikaliska och biokemiska funktioner i levande organismer.
+Endocytos:X är en process där celler absorberar material (till exempel proteiner) från utsidan genom att innesluta det med sitt cellmembran.
+Exocytos: är den process där cellerna utsöndrar stora biomolekyler genom att innesluta dem i en vesikel som sedan avknoppas från dess cellmembran.
+Natrium-kaliumpumpen:X är en proteinpump i djurs cellmembran som bidrar till att natrium har en högre koncentration utanför cellen än innanför, och kalium vice versa. I vanliga fall hade passiv transport tillrättalagt denna skillnad i koncentrationsnivåer, men med hjälp av energi och pumparna kan de olika skillnaderna i koncentrationsnivå bestå.
+Parakrin:X signalering innebär att en cell skickar ut signaler. Signalmolekyler släpps ut och påverkar närliggande celler.
+Endokrin:X signalering, där cellen utsöndrar ligander som förs med blodet till celler belägna runtom i kroppen.
+Juxtakrin:X signalering, en specialform av parakrin signalering. Avsändarcellen uttrycker proteiner på cellytan, som fungerar som ligand. Endast när avsändarcellen får fysisk kontakt med en målcell som uttrycker receptorn för liganden kommer receptorn att stimuleras.
+Neurokrin:X signalering, en specialform av parakrin signalering, som sker då nervceller utsöndrar ligander över en synaps.
+Autokrin:X signalering innebär att en cell som utsöndrar en signalmolekyl också har en receptor för densamma, så att cellen stimulerar sig själv.
+Kromosomer:X är mikroskopiskt synliga färgbara strukturer i en cell, som framträder vid celldelningen, mitosen. Mellan celldelningarna luckras X upp och syns som ett diffust nätverk i cellkärnan och de enskilda X kan inte längre urskiljas. En X innehåller en lång tråd av DNA i vilken hela eller delar av genomet finns.
+Kromatin:X är komplex av DNA och proteiner, huvudsakligen histoner men även andra genregulatoriska proteiner, i eukaryota celler. 
+Eukromatin:X är kromosomsegment som är mindre hårt packade och är därmed lättare tillgängliga för transkription av RNA-polymeraser.
+Histoner:X är globulära proteiner kring vilka kromosomernas långa DNA-spiraler är uppsnurrade.
+Heterokromatin:X är hårt packade segment av en kromosom i en eukaryot cell.
+Chargaffs rule:X state that DNA from any cell of all organisms should have a 1:1 ratio (base Pair Rule) of pyrimidine and purine bases and, more specifically, that the amount of guanine should be equaled to cytosine and the amount of adenine should be equaled to thymine.
+Puriner:Adenin och Guanin. Innehåller 2 ringstrukturer.
+Pyrimidiner:Cytosin och Tymin. Innehåller 1 ringstruktur.
+3':Position på ribose där nya nukleotider kan adderas.
+Nukleotider:X är de molekylära byggstenar som nukleinsyrorna (DNA och RNA) är uppbyggda av.
+Nukleosid: är en organisk molekyl bestående av en kvävebas (en purin eller en pyrimidin) och en sockermolekyl (deoxiribos eller ribos).
+Okazaki fragments:X are short, newly synthesized DNA fragments that are formed on the lagging template strand during DNA replication.
+Promoter:X is a region of DNA that initiates transcription of a particular gene. X are located near the transcription start sites of genes, on the same strand and upstream on the DNA (towards the 5' region of the sense strand).
+Uracil:X is one of the four nucleobases in the nucleic acid of RNA that is represented by the letter U.
+Thymine:X is one of the four main nucleobases found in the nucleic acids DNA, represented by the letter T.
+Guanine:X is one of the four main nucleobases found in the nucleic acids DNA and RNA, represented by the letter G.
+Cytosine:X is one of the four main nucleobases found in the nucleic acids DNA and RNA, represented by the letter C.
+Adenine:X is one of the four main nucleobases found in the nucleic acids DNA and RNA, represented by the letter A.
+Codon:X is a sequence of three DNA or RNA nucleotides that corresponds with a specific amino acid or stop signal during protein synthesis.
+Antikodon:X är den del av tRNA som binder till kodonet på mRNA
+Plasmamembran:X är uppbyggt av ett dubbellager av Fosfolipider, som har en hydrofob och hydrofil del.
+Glykokalyx:X är ett skikt av kolhydrater som finns på utsidan av alla eukaryota celler. 
+Mikrovilli:X är strukturer som ökar ytan på celler upp till 1000000 gånger (hos människor) vilket underlättar absorption och utsöndring. Det rör sig om mycket små utskott som är uppbyggda av aktinfilament.
+Cilier:X eller flimmerhår är hårliknande utskott från eukaryota epitelceller vars funktion är att transportera partiklar och slem, så kallad periciliär vätska, åt ett visst håll längsmed ytepitel.
+Diffusion:Rörelse av molekyler från område med hög koncentration mot område med lägre koncentration.
+Faciliterad diffusion:X gäller vattenlösliga eller laddade molekyler som tex glukos, aminosyror, joner osv. Behöver ”hjälp” via kanaler.
+Aktiv:X transport kräver energi i form av ATP. Gäller större molekyler, eller ämnen som går motströms mot koncentrationsgradient.
+Phagocytos: ”cellätning” med hjälp av pseudopodium, eller cellskelett. Cellen liksom omfamnar partikeln den ska ta in och formar sedan en phagosome. Denna aktiva transporttyp gäller främst celler inom immunsystemet
+Pinocytos:X är en passiv process. Simpel invagination. Här ”kramas” partikeln in i cytoplasman och det bildas sedan en vesikel. Många celler använder denna metod som händer hela tiden då det inte kostar någon energi. Gäller tex vatten.
+Receptor medierad endocytos: tar in ämnet med hjälp av receptor. Coated pit bildar coated vesikel med coat protein på utsidan. Gäller tex importering av järn i cellen.
+SNARE:The primary role of X proteins is to mediate vesicle fusion, that is, the fusion of vesicles with their target membrane bound compartments (such as a lysosome).
+v-SNARE:X are incorporated into the membranes of transport vesicles during budding
+t-SNARE:X, which are associated with nerve terminal membranes.
+Botulism: is a rare and potentially fatal illness caused by a toxin produced by the bacterium Clostridium b
+Receptor tyrosine kinases:X are the high-affinity cell surface receptors for many polypeptide growth factors, cytokines, and hormones. 
+46:Antalet mänskliga kromosomer.
+23:Antalet mänskliga kromosompar.
+2:Antalet mänskliga könskromosomer.
+Nucleosome:The X is the fundamental subunit of chromatin. 
+cis:golgi närmast ER
+trans:golgi närmast plasmamembranet
+G1:Tillväxt och normala metaboliska förhållanden i cellen.
+S:Fas för DNA-replikation i cellen.
+G2:Tillväxt och förbereding inför mitos, centrioler avslutar sin delning.
+M:Mitos med en boksav.
+interfas:Löper genom g1,s och g2. Celler blir metaboliska aktiva, centrioler delas, dna replikeras, cellen växer.
+profas:kromatin kondenseras till kromosomer, nukleoli försvinner och centrosomerna segregerar till varsin sida av cellen.
+metafas:kromosomerna radas upp på mitten av cellen i s.k "metafas plate". 
+anafas:systerkromatiderna separeras och dras till varsin ände.
+telofas:kromosomerna dekondenserar till kromatin. ny nuclear envelope formar sig, mitosen avslutas.
+cytokines:påbörjas i anafas och håller på under hela telofas. aktin mikrofilament formar cleavage furrow och separerar cellen i två delar.
+adenosine triphosphate:ATP
+Nicotinamide adenine dinucleotide phosphate:NADPH
+Nicotinamide adenine dinucleotide:NADH
+Deoxyribonucleic acid:DNA
+amphiphilic
+intragenic mutation
+gene duplication
+dna segment suffling
+horizontal transfer
+orthologs
+paralogs
+homologs
+bacteriophages
+plasmid:Cirkulärt DNA som är vanligt i bakterier och kan medföra antibiotika resistens
+chloroplasts
+Integromik:En tvär-specialitet, där klinska och experimentella studier kopplas till medicinsk information i olika databaser.
+Reception Transduktion Respons:Hur cellen registrerar att en signal kommer i kontakt i receptorn.
+filopodia:are slender cytoplasmic projections that extend beyond the leading edge of lamellipodia in migrating cells. They contain actin filaments cross-linked into bundles by actin-binding proteins, e.g. fascin and fimbrin.
+Pseudopodia:is a temporary cytoplasm-filled projection of a eukaryotic cell membrane or a unicellular protist. X may be used for motility, or for ingesting nutrients or other particulate matter. 
+Coated pits:X are regions of the cell membrane specialized in receptor-mediated endocytosis. Their cytoplasmic surface is coated with a bristlelike structure made of clathrin.
+Clathrin:X is a protein that plays a major role in the formation of coated vesicles.
+
+
+***EMBRYOLOGI***
+
+Tidig embryologi
+Nativitas:Födelse på latin
+Fertilization:Fusion av spermie och äggcell
+Foetus:Foster på latin
+prenatala perioden:tiden från fertilization till nativitas
+Oocyte:annat ord på obefruktat ägg.
+Zygote:Annat ord på fertilizerat ägg.
+Morula:En solid klump av celler som bildats ca 3 dagar efter fertilizering (ca 16 celler)
+Blastocyst:Bildas ca 4 dagar efter fertilizering.
+Vlastos:Frö på grekiska
+Kustis:Säck på grekiska
+Trophoblast:Del av blastocyst som så småningom blir moderkaka (placenta)
+Inner cell mass:X is the mass of cells inside the primordial embryo that, once fertilized, will eventually give rise to the definitive structures of the fetus.
+Implantation:Tar ca 4 dagar, blastocysten fäster vid livmoderslemhinnan och trophoblasten invarderar livmoderslemhinnan (uterine wall).
+Bilaminar disc:Inner cell mass forms X after implantation.
+Epiblast:X is derived from the inner cell mass and lies above the hypoblast.
+Hypoblast:X is a tissue type that forms from the inner cell mass. It lies beneath the epiblast and consists of small cuboidal cells.
+Amniotic Sac:The X is a bag of fluid inside a woman's womb (uterus) where the unborn baby develops and grows.
+Yolk Sac:The X is a membranous sac attached to an embryo, formed by cells of the hypoblast adjacent to the embryonic disk.
+11:Hur många dagar tar det innan implantationen är klar?
+Gastrulation:X is a phase early in the embryonic development of most animals, during which the single-layered blastula is reorganized into a multilayered structure known as the gastrula.
+Primitive node:The X is an area through which migrating cells are channelled into a rodlike mass of mesenchymal cells called the notochord.
+Primitive Streak
+Ectoderm:X  is one of the three primary germ layers in the very early embryo. The other two layers are the mesoderm (middle layer) and endoderm (most proximal layer)
+Mesoderm
+Endoderm
+Derma:Hud eller hinna på grekiska.
+Embryonic disc
+Notochord:The X  is a flexible rod made out of a material similar to cartilage. 
+Neurulation:X refers to the folding process in vertebrate embryos, which includes the transformation of the neural plate into the neural tube.
+Neural groove:The X is a shallow median groove of the neural plate between the neural folds of an embryo.
+Neural fold
+Neural crest
+Untermediate mesoderm
+Lateral plate mesoderm
+Somatic mesoderm
+Splanchnic mesoderm
+Somite
+Somatiskt
+Splankkniskt
+Ovulation:Ägglossning
+Groddbladen:Svenskt samlingsnamn på Ectoderm, Endoderm och Mesoderm.
+Ovarium
+Tuba Uterina
+Uterus
+Embryo
+Dizygota
+Monozygota tvillingar
+Amnion
+Epiblast
+Hypoblast
+Neurallist
+Intermediärt mesoderm
+Coelomhåla
+Dermatom
+Myotom
+Sklerotom
+
+***KÄNDA PERSONER***
+
+Francis Bacon:1561-1626, advocerade den vetenskapliga metoden och induktiva processen.
+Rene Descartes:1596-1650, X var en fransk filosof, matematiker och forskare. Han förespråkade dualism, en seperation mellan det mentala och kroppsliga.
+William Harvey:1578-1657, X var en engelsk läkare som detaljerat beskrev cirkulationssystemet och hjärtats funktion. Han publicerade sina upptäckter i "de Motu Cordis"
+Marcello Malpighi:1628-1694, Fadern av mikroskopisk anatomi, beskrev kapillärerna med upptäckter som gjordes mha mikroskopi.
+James Lind:1716-1794, Skottsk marinläkare som upptäckte att skörbjugg kunde förebyggas med c-vitaminsrika citrusfrukter. Han arbetade även med att förbättra hygienen på fartygen.
+Edward Jenner:1749-1823, X använde kokoppor för att förebygga smittkoppor och utvecklade på så sätt världens första vaccin.
+Rene Laennec:1781-1826, X var en fransk doktor som uppfann stetoskopet.
+Ignaz Semmelweis:1818-1864, X var en gynekolog som kämpade för bättre hygien vid kliniskt arbete, vilket han hade upptäckt minska spridningen av barnsängsfeber vid förlossningsvården där han arbetade.
+Florence Nightingale:X arbetade som sjuksköterska och bidrog till att förbättra yrkets rennomé. Vid de fältlansarett hon arbetade sänktes dödligheten drastiskt.
+Rudolf Virchow:1821-1902, fadern av modern patologi, X, bidrog till att utveckla cellteorin. Hans upptäckter bidrog till att förbättra hygien.
+Louis Pasteur:1822-1895, X la grunden för modern mikrobiologi, motbevisade spontan generation och gjorde de första vaccinen mot rabies och mjältbrand.
+Joseph Lister:1827-1912, advocerade användandet av karboxylsyra vid operationer, det blev det första utbrett använda antiseptiska medlet.
+Alexander Fleming:1881-1995, X är mest känd för att ha upptäckt världens första antibiotiska substans, benzylpenicillin.
+John Snow:1813-1858, X var en engelsk läkare och en ledare inom användandet av bedövning och medicisnk hygien. X kallas ibland "fadern av epidemiologi", delvis pga hans arbete med att spåra ett kolerautbrott i Soho, London, 1854.
+Hippocrates:460BC-370BC, Fadern av medicin.
+Oswald Avery:1877-1955, X var en kanadensisk-amerikansk läkare som bevisade att DNA var det genetiska materialet, experimenten publicerades i "Studies on the chemical nature of the substance inducing transformation of pneumoccal types..."
+Matthias Schleiden:1804-1881, tysk botanist och co-founder av cellteorin.
+Theodor Schwann:Tysk physiolog som hjälpte till att utvecka cell teorin, upptäckte neurolemmocytes som även har ett annat namn efter honom.
+Antoine Lavoisier:Den franske vetenskapsmannen X föreslog en teori om kemiska reaktioner och balansering utav dem. Sambandet mellan reaktanter och produkter.
+Johannes Gutenberg:X (1400-1468) uppfinner boktryckarkonsten vilket medför att man enklare kan dela med sig av sin medicinska kunskap. Den ökade spridningen nådde allmänheten och alltfler kunde ta del av dessa kunskaper.
+Andreas Vesalius:1514-1564, X publicerar en bok, de humani corporis fabrica, som lägger grunden för den korrekta anatomiska uppbyggnaden.
+Judah Folkman:X was an American medical scientist best known for his research on tumor angiogenesis, the process by which a tumor attracts blood vessels to nourish itself and sustain its existence.
+
+***HUMANBIOLOGI***
+
+Cellbiologi -> Anatomi
+
+Ectoderm:Hud, hår naglar och hela nervsystemet kommer från dessa celler.
+Notochord
+Somite
+Intermediate mesoderm
+Lateral plate mesoderm
+Somatic mesoderm
+Splanchnic mesoderm
+Endoderm:Slemhinnor och körtlar.
+Differentiering:Specialisering till olika celltyper.
+Genetik
+Epigenetik
+Genotyp:Definieras av innehållet i den genetiska koden.
+Fenotypen:Uttrycket av den genetiska koden, dvs egenskaperna hos cellen eller organismen.
+Cytologi:Vävnadslära
+Fibroblast:Finns i bindväv (bindväv finns i senor, ledkapslar, underhuden etc) och tillverkar fibrer. Vanligaste typen av fibrer är kollagen.
+Erythrocyte:Röd blodcell, inga organeller, inget DNA, transporterar syre.
+Makrofag:En försvarscell som tillhör immunsystemet och försvarar framförallt mot bakterier genom att äta upp dom. Fungerar också som en städare, och kan bryta ner kroppens egna celler.
+Epitelcell:Täcker kroppens olika hålrum, bygger upp slemhinnor/hud. Körtlar består av epitelceller.
+Epitelvävnad
+Muskelceller:Innehåller fibriller, som skapar rörelse. En cell har flera kärnor, och skapas genom att flera mindre celler fuserar.
+Tvärstrimmig:Typ av muskulatur som även kallas sklettmuskulatur.
+Glatt
+Hjärtmuskelcell
+Nervcell:Har ett långt utskott (upp till 1m), och själva kroppen kan vara 100 mikrometer. Den är specialiserad för att kunna överföra information, men kan även lagra och bearbeta information.
+Glialcell
+Fat Cell:Lipid droplet utgör en mycket stor del av cellen, och där lagras energi.
+Ovum:Innehåller bara 23 kromosomer, a.k.a äggcell.
+
+Histologi:Vävnadslära
+Vävnad:Förband av celler och substans utanför cellerna som håller ihop dom.
+Stödjevävnad:Stor andel extracellulärsubstans och det finns flera celltyper, ex fibroblast, makrofag, neutrofil och fett cell.
+Extracellulärsubstans:Består av fibrer och grundsubstans (Vätska, gel eller mineral). Tillåter transport mellan cellerna, är kroppens inre miljö, interagerar med cellerna. "Kroppens inre miljö".
+Interstitialvätska:Namnet på vätskan i extracellulärsubstansen.
+Muskelvävnad:Tre huvudtyper tvärstrimmig-, hjärt- och glatt-Y.
+Tvärstrimmig:Skeletal muscle på svenska, viljekontrollerad.
+Nervvävnad:Består av nervceller.
+Centrala nervsystemet:CNS (hjärna+ryggmärgen)
+Perifiera nervsystemet:PNS
+Organ:Morfologisk och funktionell enhet som består av olika vävnader. Kan avgränsas från sin omgivning.
+Excretion:X is the process by which metabolic wastes and other non-useful materials, such as faeces, are eliminated from an organism. 
+Morfologi:Formlära
+Histologi:Mikromorfologi
+Anatomi:Makromorfologi
+Fysiologi:Funktionslära
+Junctions:Fogar mellan cellerna.
+Simple
+Stratified
+Epidermis:Del av huden som består av epitel.
+Organsystem:Ett antal organ som samverkar i en gemensam funktion.
+Krohns sjukdom
+Internaliserad yttervärld:Mag-tarmkanal och luftrör.
+gnotobiotic:relating to or denoting an environment for rearing or culturing organisms in which all the microorganisms are either known or excluded.
+Enteric nervous system: is one of the main divisions of the autonomic nervous system and consists of a mesh-like system of neurons that governs the function of the gastrointestinal tract.
+Homeostas:Lika tillstånd, den inre miljön ska anpassas efter behov, från wiki "can be defined as the stable condition of an organism and of its internal environment"
+Fysiologi:Integrativ biologi, "helheten är mer komplex än dess beståndsdelar".
+Hormon:Signalsämne som går via blodet.
+Receptor:Kan vara jonkanal, g-protein, kinase-länkade eller nukleär.
+Boyles law:For a fixed amount of an ideal gas kept at a fixed temperature, pressure and volume are inversely proportional. 
+Peristaltik:Ord som betyder sammandragande.
+Angiogenes:Kärlnybildning
+Sprouting:Förgrening av kapillärer
+Intussusception??
+Vascular endothelial growth factor:VEGF
+Transcriptom:Helheten av all mRNA som transkriberas i ett givet ögonblick
+Metabolom:Summan av alla ämnesomsättningsprodukter i ett givet ögonblick
+Proteom:Summan av alla proteiner som finns i ett givet ögonblick.
+Genom:Summan av alla genetiska element.
+
+
+***MIKROBIOLOGI***
+
+Patogenicitet:Förmåga att orsaka sjukdom, hur manga agens som leder till sjukdom.
+Virulensfaktorer:Faktorer hos agens som orsakar sjukdom
+Oppertunister:Agens som sjukdom hos redan sjuka
+Normal Flora:Mikroorganismer som normal lever på kroppen
+Virus:DNA eller RNA som genetiskt material, täcks av kapsid och har ibland ett membranhölje.
+Prioner:Icke levande agens, proteiner som antar en infektiös form. Ex, Galna kosjukan, Scrapie, creutzfeldt Jakob.
+DNA virus: Smittkoppor, Herpes
+RNA virus:Ebola, SARS, förkylning, influenza, Hepatit C, Polio, mässling
+Retro virus:Typ av virus; exempelvis HIV, HTLV
+n-acetylglucosamine:It is part of a biopolymer in the bacterial cell wall, which is built from alternating units of X and MurNAc, cross-linked with oligopeptides at the lactic acid residue of MurNAc. This layered structure is called peptidoglycan (formerly called murein).
+N-Acetylmuramic acid:X is part of the peptidoglycan polymer of bacterial cell walls. X is covalently linked to GlcNAc and may also be linked through the hydroxyl on carbon number 4 to the carbon of L-alanine. 
+Pili:X is a hair-like appendage found on the surface of many bacteria. The terms X and fimbria (Latin for 'fringe'; plural: fimbriae) can be used interchangeably, although some researchers reserve the term X for the appendage required for bacterial conjugation. Pili binder till saker.
+Capsule:The bacterial X is a very large structure of many bacteria. It is a polysaccharide layer that lies outside the cell envelope, and is thus deemed part of the outer envelope of a bacterial cell.
+Nucleoid:The X is an irregularly shaped region within the cell of a prokaryote that contains all or most of the genetic material, called genophore. In contrast to the nucleus of a eukaryotic cell, it is not surrounded by a nuclear membrane.
+70S:Namn på bakteriers ribosomer efter deras sedimenteringisnummer.
+Arkeer:Har eterbindningar I fosfolipiderna
+S-lager:Kristall-liknande proteinhölje hos arkeer.
+Desinfektion:Reducera mängden patogena mikroorganismer och virus
+Sterilisering:Avdödning av alla organismer, inkl endosporer.
+Infektiösa agens:Kan infektera och orsaka sjukdom
+80S:Eukaryota ribosomers sedimenteringstal (bortsett från mitokondrier och kloroplaster)
+Periplasma:Utrymmet mellan ytter- och innermembranet i G- bakterier.
+N-acetylglucosamine:Socker i peptidoglykan som x-länkande peptider binder till.
+Pentaglycin:Vad består x-länken som DD-transpeptidase (som inhiberas av penicillin) bygger upp av?
+Exotoxiner:Toxiska proteiner som utsöndras av bakterier
+Endotoxiner:Lipopolysackarider som frisläpps från G- bakterier.
+Proteaser som bryter ner amyloider?
+RNA replikas:Enzym som RNA-virus behöver för att replikera sitt genom:
+
+
+***LATINSKA TERMER***
+
+Caput:Huvud
+Brachium:Överarm
+Manus:Hand
+Truncus:Bål
+Femur:Lår/Lårben
+Crus:Underbenet
+Pes:Foten
+Os frontale:Pannben på latin
+Os:Ben på latin
+Ossa:Flera ben (på latin)
+Musculus:Muskel
+Nervus:Nerv
+Arteria:Artär
+Vena:Ven
+Magnum:Stor
+Major:Större
+Maximus:Störst
+Parus:Liten
+Minor:Mindre
+Minimus:Minst
+Superior:Övre
+Inferior:Nedre
+Anterior:Främre
+Posterior:Bakre
+Dexter:Höger
+Sinister:Vänster
+Craniellt:Mot huvudet/Upp
+Caudalt:Mot svansen/Ner
+Proximalt:Mot kroppen/Upp
+Distalt:Från kroppen/Ner
+Lateralt:Mot sidan
+Medialt:Mot mitten
+Medellinjen:Så medialt det blir
+Ventralt:Mot buken
+Dorsalt:Mot ryggen
+Frontalplan:Delar kroppen i främre och bakdel.
+SagittalPlan:Delar kroppen i höger och vänsterled.
+TransversalPlan:Tvärsnitt (Horisontellt)
+Frontal Horizontal:Axel som löper parallelt och horizontellt med sagittalplanet 
+Sagittal Horizontal:Axel som löper parallelt och horizontellt med frontalplanet
+Gångjärnsleder:Endast en rörelseaxel
+Endomysium:Bindväv som omger muskelceller
+Fascicel:Bunt av muskelceller
+Perimysium:Omger bunt av muskelceller (Fascicel)
+Epimysium:Bindväv som omger bunt av fasciklar (muskel)
+Kontraktion:Sammandragning som alstrar dragkraft i senorna.
+Myosin:Comprise a superfamily of motor proteins best known for their roles in muscle contraction and in a wide range of other motility processes in eukaryotes. They are ATP-dependent and responsible for actin-based motility.
+Aktin:X är ett protein som tillsammans med proteinet myosin svarar för muskelkontraktionen.
+Filament:Proteinmolekyler, aktin och myosin, som glider längs varandra.
+Fibrill:Organell som innehåller filamenten, i en muskelcell domineras volymen av myofibriller.
+Sarkoplasmatiskt retikulum:X är ett system av rörliknande endoplasmatisk retikulum i muskelceller som löper utmed myofibrillerna. 
+Humerus:Benet i överarmen.
+Ulna:Det mediala benet i underarmen.
+Musculus Brachialis:Biceps
+Musculus Triceps Brachii:Triceps
+SO:Muskelfiber typ 1, är uthålliga men inte så starka
+SG:Muskelfiber typ 2, är starka men inte så uthålliga
+Recruitment:Inkoppling av muskelceller i en kontraktion.
+SO:Vilken muskelfiber rekryteras först?
+Ursprung:Proximala muskelfäste
+Fäste:Distala muskelfäste
+
+
+***CELLTYPER***
+
+Fibroblast
+Epithelial Cells
+Erythrocyte
+Skeletal Muscle Cell
+Smooth Muscle Cell
+Fat Cell
+Macrophage
+Neuron
+Sperm
+Oocyte
+Keratinocytes
+Tactile Epithelial Cell
+Macrophage:"Ätarceller"
+Melanocyte
+Mesenchymal Cell:Multipotent stromal cells that can differentiate into a variety of cell types, including: osteoblasts (bone cells), chondrocytes (cartilage cells), myocytes (muscle cells) and adipocytes (fat cells which give rise to marrow adipose tissue).
+Mesenchyme like stem cell.
+Mast Cells
+Dendritic Cell
+Chondrocyte:A cell which has secreted the matrix of cartilage and become embedded in it.
+Osteoblast:Actively produce and secrete the organic components of the bone matrix: the ground substance and the collagen fibers. This bone matrix secreted is called osteoid.
+Osteogenic Cells:Stem cells that differentiate into bone-forming osteoblasts.
+Osteocyte:Function to keep the bone matrix healthy. In fact, if these cells die or are destroyed, the bone matrix is resorbed.
+Osteoclast:Derived from a lineage of white blood cells. These multinucleated cells break down bone by secreting hydrochloric acid, which dissolves the mineral component of the matrix, and lysosomal enzymes, which digest the organic components.
+
+***BEN PÅ LATIN***
+
+os frontale:pannben på latin
+os parietale:Sitter mest superior och ligger posteriärt till os frontale och antoriärt till os occipitale.
+os occipitale:Ben som sitter posterialt på kraniet och angränsar med parietalbenet via lambdoid suture.
+os temporale:ben som sitter lateralt i caput
+os nasale:Näsbenet
+os zygomaticum:Kindbenet
+maxilla:Övre käkbenet
+mandibula:Undre käkbenet
+vertebra cervicalis:övre kotpelaren (C1-7)
+vertebra thoracalis:mellan kotpelaren (T1-12)
+vertebra lumbalis:nedre kotpelaren (L1-5)
+sacrum:ligger direkt caudalt från kotpelaren
+os coccygis:svanskotorna
+costa:Revbenen
+sternum:ventralt ben som länkar samman revenbenen
+clavicula:nyckelbenet
+scapula:skulderbladet
+humerus:benet i överarmen
+radius:underarmsbenet som avslutas på sidan mot tummen
+ulna:underarmsbenet som avslutas mot lillfingret
+carpus:handledsbenen
+metacarpus:mellanhanden
+falanger:finns proximala, mellan och distala sådana i händerna och fötter
+pelvis:bäckenbenet
+os coxae:höftben
+femur:lårbenet på latin
+patella:knäskål på latin
+tibia:Det grövsta smalbenet
+fibula:det smala smalbenet
+tarsus:fotledsbenens samlingsnamn på latin
+metatarsus:mellanfotbenen på latin
+
